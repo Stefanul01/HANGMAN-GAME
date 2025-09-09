@@ -28,7 +28,7 @@ a _ _ _ _
 ________________________________________
 How to Run
 1.	Clone the repository:
- 	git clone https://github.com/Stefanul01/hangman-python.git
+ 	git clone https://github.com/Stefanul01/HANGMAN-GAME.git
 cd hangman-python
 2.	Run the script with Python:
  	python hangman.py
