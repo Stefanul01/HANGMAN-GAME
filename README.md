@@ -9,23 +9,6 @@ Features
 •	Win/lose messages with the correct answer revealed.
 •	Option to play again without restarting the program.
 ________________________________________
-Example Gameplay
-*************************
-   
-   
-   
-_ _ _ _ _
-
-Enter a letter: a
-*************************
- o
-   
-   
-a _ _ _ _
-•	The underscores show unguessed letters.
-•	The hangman figure updates as wrong guesses increase.
-•	Player types one letter at a time.
-________________________________________
 How to Run
 1.	Clone the repository:
  	git clone https://github.com/Stefanul01/HANGMAN-GAME.git
